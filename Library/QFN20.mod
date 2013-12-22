@@ -1,0 +1,182 @@
+PCBNEW-LibModule-V1  17/12/2013 17:25:32
+# encoding utf-8
+Units mm
+$INDEX
+QFN20
+$EndINDEX
+$MODULE QFN20
+Po 0 0 0 15 52B0887B 00000000 ~~
+Li QFN20
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.45 1 1 0 0.15 N V 21 N "QFN20"
+T1 0 8.3 1 1 0 0.15 N V 21 N "VAL**"
+DS -2 -1.5 -1.5 -2 0.15 21
+DS -2 -2 2 -2 0.15 21
+DS 2 -2 2 2 0.15 21
+DS 2 2 -2 2 0.15 21
+DS -2 2 -2 -2 0.15 21
+$PAD
+Sh "1" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -1
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -0.5
+$EndPAD
+$PAD
+Sh "3" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0
+$EndPAD
+$PAD
+Sh "4" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0.5
+$EndPAD
+$PAD
+Sh "5" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 1
+$EndPAD
+$PAD
+Sh "6" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 1.9
+$EndPAD
+$PAD
+Sh "7" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 1.9
+$EndPAD
+$PAD
+Sh "8" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.9
+$EndPAD
+$PAD
+Sh "9" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 1.9
+$EndPAD
+$PAD
+Sh "10" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 1.9
+$EndPAD
+$PAD
+Sh "11" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 1
+$EndPAD
+$PAD
+Sh "12" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0.5
+$EndPAD
+$PAD
+Sh "13" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0
+$EndPAD
+$PAD
+Sh "14" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -0.5
+$EndPAD
+$PAD
+Sh "15" R 0.7 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -1
+$EndPAD
+$PAD
+Sh "16" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -1.9
+$EndPAD
+$PAD
+Sh "17" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 -1.9
+$EndPAD
+$PAD
+Sh "18" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.9
+$EndPAD
+$PAD
+Sh "19" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 -1.9
+$EndPAD
+$PAD
+Sh "20" R 0.7 0.25 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -1.9
+$EndPAD
+$PAD
+Sh "" T 0.4935 0.4935 0 0 450
+Dr 0 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -0.875 -0.875
+$EndPAD
+$PAD
+Sh "" T 2.45 2.1 0 0 0
+Dr 0 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 0.175
+$EndPAD
+$PAD
+Sh "" T 2.1 2.45 0 0 0
+Dr 0 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0.175 0
+$EndPAD
+$EndMODULE QFN20
+$EndLIBRARY
