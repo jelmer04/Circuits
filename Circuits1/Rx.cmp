@@ -1,4 +1,11 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 22/12/2013 19:42:47
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 23/12/2013 18:20:04
+
+BeginCmp
+TimeStamp = /52AF81F8/52B8818A;
+Reference = A1;
+ValeurCmp = Antenna;
+IdModule  = Antenna;
+EndCmp
 
 BeginCmp
 TimeStamp = /52AF956C;

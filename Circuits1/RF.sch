@@ -41,7 +41,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
 Title "noname.sch"
-Date "22 dec 2013"
+Date "23 dec 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -521,4 +521,21 @@ F 3 "~" H 7250 3700 60  0000 C CNN
 	1    7250 3700
 	0    -1   -1   0   
 $EndComp
+$Comp
+L CONN_2 A1
+U 1 1 52B8818A
+P 9150 5200
+F 0 "A1" V 9100 5200 40  0000 C CNN
+F 1 "Antenna" V 9200 5200 40  0000 C CNN
+F 2 "" H 9150 5200 60  0000 C CNN
+F 3 "" H 9150 5200 60  0000 C CNN
+	1    9150 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 4850 8800 5100
+Connection ~ 8800 4850
+Wire Wire Line
+	8800 5300 8250 5300
+Connection ~ 8250 5300
 $EndSCHEMATC

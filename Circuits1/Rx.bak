@@ -41,7 +41,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title ""
-Date "22 dec 2013"
+Date "23 dec 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -980,4 +980,12 @@ Text Label 3850 5750 0    60   ~ 0
 MOSI
 Text Label 3750 5650 0    60   ~ 0
 SCK
+Connection ~ 3100 3500
+Connection ~ 3000 3700
+Connection ~ 3050 3100
+Connection ~ 3050 2900
+Connection ~ 3050 4200
+Connection ~ 2700 1350
+Connection ~ 7450 2250
+Connection ~ 9150 2250
 $EndSCHEMATC
