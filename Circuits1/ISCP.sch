@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 2  date Tuesday, 14 January 2014 21:59:12
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -31,17 +31,19 @@ LIBS:contrib
 LIBS:valves
 LIBS:atmega16
 LIBS:ATMEGA32U4
-LIBS:nRF24L01+
 LIBS:LD1117
 LIBS:MPU-6050
-LIBS:Rx-cache
+LIBS:nrf24l01
+LIBS:nRF24L01+
+LIBS:Quartz
+LIBS:Tx-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
-Date "23 dec 2013"
+Date "14 jan 2014"
 Rev ""
 Comp ""
 Comment1 ""
