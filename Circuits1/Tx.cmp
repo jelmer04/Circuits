@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 21/01/2014 14:20:34
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Tuesday, 04 March 2014 14:13:55
 
 BeginCmp
 TimeStamp = /52AF81F8/52B8818A;
@@ -211,10 +211,31 @@ IdModule  = LED-3MM;
 EndCmp
 
 BeginCmp
+TimeStamp = /5315B675;
+Reference = Hole1;
+ValeurCmp = CONN_1;
+IdModule  = Drill3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315B6C3;
+Reference = Hole2;
+ValeurCmp = CONN_1;
+IdModule  = Drill3mm;
+EndCmp
+
+BeginCmp
 TimeStamp = /52DE8ECA;
 Reference = JP1;
 ValeurCmp = Vcc Select;
 IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315BFD6;
+Reference = JP2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
 EndCmp
 
 BeginCmp

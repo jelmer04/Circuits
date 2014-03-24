@@ -1,5 +1,53 @@
-update=Friday, 24 January 2014 10:22:48
-last_client=pcbnew
+update=Friday, 07 March 2014 12:58:22
+last_client=eeschema
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[pcbnew]
+version=1
+LastNetListRead=Tx.net
+UseCmpFile=1
+PadDrill=3.000000000000
+PadDrillOvalY=3.000000000000
+PadSizeH=3.300000000000
+PadSizeV=3.300000000000
+PcbTextSizeV=1.501140000000
+PcbTextSizeH=1.501140000000
+PcbTextThickness=0.299720000000
+ModuleTextSizeV=1.000760000000
+ModuleTextSizeH=1.000760000000
+ModuleTextSizeThickness=0.149860000000
+SolderMaskClearance=0.000000000000
+SolderMaskMinWidth=0.000000000000
+DrawSegmentWidth=0.200660000000
+BoardOutlineThickness=0.099060000000
+ModuleOutlineThickness=0.149860000000
+[pcbnew/libraries]
+LibDir=/Users/Jon/Library/Application Support/kicad/modules
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=divers
+LibName5=smd_capacitors
+LibName6=smd_resistors
+LibName7=smd_crystal&oscillator
+LibName8=smd_dil
+LibName9=smd_transistors
+LibName10=libcms
+LibName11=display
+LibName12=led
+LibName13=dip_sockets
+LibName14=pga_sockets
+LibName15=valves
+LibName16=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/ant
+LibName17=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/crystal
+LibName18=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/QFN20
+LibName19=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/USB
+LibName20=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/w_smd_qfn
+LibName21=pin_array
+LibName22=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/Hole
 [eeschema]
 version=1
 LibDir=../Library
@@ -46,49 +94,3 @@ LibName34=MPU-6050
 LibName35=nrf24l01
 LibName36=nRF24L01+
 LibName37=Quartz
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
-[pcbnew]
-version=1
-LastNetListRead=Tx.net
-UseCmpFile=1
-PadDrill=0
-PadSizeH=25.5803
-PadSizeV=1.20904
-PcbTextSizeV=1.50114
-PcbTextSizeH=1.50114
-PcbTextThickness=0.29972
-ModuleTextSizeV=1.00076
-ModuleTextSizeH=1.00076
-ModuleTextSizeThickness=0.14986
-SolderMaskClearance=0
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.20066
-BoardOutlineThickness=0.09906
-ModuleOutlineThickness=0.14986
-[pcbnew/libraries]
-LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=smd_capacitors
-LibName7=smd_resistors
-LibName8=smd_crystal&oscillator
-LibName9=smd_dil
-LibName10=smd_transistors
-LibName11=libcms
-LibName12=display
-LibName13=led
-LibName14=dip_sockets
-LibName15=pga_sockets
-LibName16=valves
-LibName17=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/ant
-LibName18=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/crystal
-LibName19=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/QFN20
-LibName20=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/USB
-LibName21=/Users/Jon/Documents/Lecture Notes/Third Year/Project/Circuits/Library/w_smd_qfn

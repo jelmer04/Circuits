@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  gio 17 ott 2013 21:47:29 CEST
+PCBNEW-LibModule-V1  Tuesday, 04 March 2014 14:32:38
 # encoding utf-8
 Units mm
 $INDEX
@@ -4333,7 +4333,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE qfn-16
 $MODULE qfn-20
-Po 0 0 0 15 513B15A8 00000000 ~~
+Po 0 0 0 15 5315E3FF 00000000 ~~
 Li qfn-20
 Cd Plastic QFP, Microchip QFN-20
 Sc 0
@@ -4358,7 +4358,7 @@ DS 1.99898 -1.99898 1.99898 1.99898 0.127 21
 DS 1.99898 1.99898 -1.99898 1.99898 0.127 21
 DC -1.40208 1.397 -1.20396 1.4986 0.19812 21
 $PAD
-Sh "1" R 0.29972 0.72898 0 0 0
+Sh "1" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4366,7 +4366,7 @@ Po -1.00076 1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "2" R 0.29972 0.72898 0 0 0
+Sh "2" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4374,7 +4374,7 @@ Po -0.50038 1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "3" R 0.29972 0.72898 0 0 0
+Sh "3" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4382,7 +4382,7 @@ Po 0 1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "4" R 0.29972 0.72898 0 0 0
+Sh "4" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4390,7 +4390,7 @@ Po 0.50038 1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "6" R 0.72898 0.29972 0 0 0
+Sh "6" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4398,7 +4398,7 @@ Po 1.96596 1.00076
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "7" R 0.72898 0.29972 0 0 0
+Sh "7" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4406,7 +4406,7 @@ Po 1.96596 0.50038
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "8" R 0.72898 0.29972 0 0 0
+Sh "8" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4414,7 +4414,7 @@ Po 1.96596 0
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "9" R 0.72898 0.29972 0 0 0
+Sh "9" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4422,7 +4422,7 @@ Po 1.96596 -0.50038
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "10" R 0.72898 0.29972 0 0 0
+Sh "10" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4466,7 +4466,7 @@ Po 0.62484 -0.62484
 .SolderPaste -0.09906
 $EndPAD
 $PAD
-Sh "11" R 0.29972 0.72898 0 0 0
+Sh "11" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4474,7 +4474,7 @@ Po 1.00076 -1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "12" R 0.29972 0.72898 0 0 0
+Sh "12" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4482,7 +4482,7 @@ Po 0.50038 -1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "13" R 0.29972 0.72898 0 0 0
+Sh "13" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4490,7 +4490,7 @@ Po 0 -1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "14" R 0.29972 0.72898 0 0 0
+Sh "14" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4498,7 +4498,7 @@ Po -0.50038 -1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "15" R 0.29972 0.72898 0 0 0
+Sh "15" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4506,7 +4506,7 @@ Po -1.00076 -1.96596
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "16" R 0.72898 0.29972 0 0 0
+Sh "16" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4514,7 +4514,7 @@ Po -1.96596 -1.00076
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "17" R 0.72898 0.29972 0 0 0
+Sh "17" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4522,7 +4522,7 @@ Po -1.96596 -0.50038
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "18" R 0.72898 0.29972 0 0 0
+Sh "18" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4530,7 +4530,7 @@ Po -1.96596 0
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "19" R 0.72898 0.29972 0 0 0
+Sh "19" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4538,7 +4538,7 @@ Po -1.96596 0.50038
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "20" R 0.72898 0.29972 0 0 0
+Sh "20" R 0.72898 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4546,7 +4546,7 @@ Po -1.96596 1.00076
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "5" R 0.29972 0.72898 0 0 0
+Sh "5" R 0.23 0.72898 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
@@ -4561,7 +4561,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE qfn-20
 $MODULE qfn-24
-Po 0 0 0 15 51727CB8 00000000 ~~
+Po 0 0 0 15 5315E36D 00000000 ~~
 Li qfn-24
 Cd Plastic QFP, Micrel QFN44-24LD-LP-1
 Sc 0
@@ -4586,75 +4586,75 @@ DS 1.99898 -1.99898 1.99898 1.99898 0.127 21
 DS 1.99898 1.99898 -1.99898 1.99898 0.127 21
 DC -1.40208 1.397 -1.20396 1.4986 0.19812 21
 $PAD
-Sh "1" R 0.23 0.48 0 0 0
+Sh "1" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.25 1.86
+Po -1.25 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "2" R 0.23 0.48 0 0 0
+Sh "2" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.75 1.86
+Po -0.75 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "3" R 0.23 0.48 0 0 0
+Sh "3" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.25 1.86
+Po -0.25 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "4" R 0.23 0.48 0 0 0
+Sh "4" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.25 1.86
+Po 0.25 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "6" R 0.23 0.48 0 0 0
+Sh "6" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.25 1.86
+Po 1.25 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "7" R 0.48 0.23 0 0 0
+Sh "7" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 1.25
+Po 2 1.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "8" R 0.48 0.23 0 0 0
+Sh "8" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 0.75
+Po 2 0.75
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "9" R 0.48 0.23 0 0 0
+Sh "9" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 0.25
+Po 2 0.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "10" R 0.48 0.23 0 0 0
+Sh "10" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 -0.25
+Po 2 -0.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
@@ -4694,123 +4694,123 @@ Po 0.65 -0.65
 .SolderPaste -0.09906
 $EndPAD
 $PAD
-Sh "11" R 0.48 0.23 0 0 0
+Sh "11" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 -0.75
+Po 2 -0.75
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "12" R 0.48 0.23 0 0 0
+Sh "12" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.86 -1.25
+Po 2 -1.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "13" R 0.23 0.48 0 0 0
+Sh "13" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.25 -1.86
+Po 1.25 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "14" R 0.23 0.48 0 0 0
+Sh "14" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.75 -1.86
+Po 0.75 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "15" R 0.23 0.48 0 0 0
+Sh "15" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.25 -1.86
+Po 0.25 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "16" R 0.23 0.48 0 0 0
+Sh "16" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.25 -1.86
+Po -0.25 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "17" R 0.23 0.48 0 0 0
+Sh "17" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.75 -1.86
+Po -0.75 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "18" R 0.23 0.48 0 0 0
+Sh "18" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.25 -1.86
+Po -1.25 -2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "19" R 0.48 0.23 0 0 0
+Sh "19" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 -1.25
+Po -2 -1.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "20" R 0.48 0.23 0 0 0
+Sh "20" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 -0.75
+Po -2 -0.75
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "5" R 0.23 0.48 0 0 0
+Sh "5" R 0.23 0.78 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.75 1.86
+Po 0.75 2
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "21" R 0.48 0.23 0 0 0
+Sh "21" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 -0.25
+Po -2 -0.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "22" R 0.48 0.23 0 0 0
+Sh "22" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 0.25
+Po -2 0.25
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "23" R 0.48 0.23 0 0 0
+Sh "23" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 0.75
+Po -2 0.75
 .SolderMask 0.07112
 $EndPAD
 $PAD
-Sh "24" R 0.48 0.23 0 0 0
+Sh "24" R 0.78 0.23 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.86 1.25
+Po -2 1.25
 .SolderMask 0.07112
 $EndPAD
 $SHAPE3D
