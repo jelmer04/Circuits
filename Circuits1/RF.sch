@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 2  date Monday, 31 March 2014 17:10:11
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -43,7 +43,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 4
 Title "noname.sch"
-Date "7 mar 2014"
+Date "31 mar 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -279,12 +279,12 @@ $EndComp
 $Comp
 L INDUCTOR_SMALL L3
 U 1 1 52AF7FEE
-P 7250 4150
-F 0 "L3" H 7250 4250 50  0000 C CNN
-F 1 "2.7nH" H 7250 4100 50  0000 C CNN
-F 2 "~" H 7250 4150 60  0000 C CNN
-F 3 "~" H 7250 4150 60  0000 C CNN
-	1    7250 4150
+P 7250 4200
+F 0 "L3" H 7250 4300 50  0000 C CNN
+F 1 "2.7nH" H 7250 4150 50  0000 C CNN
+F 2 "~" H 7250 4200 60  0000 C CNN
+F 3 "~" H 7250 4200 60  0000 C CNN
+	1    7250 4200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -484,9 +484,6 @@ Wire Wire Line
 Wire Wire Line
 	6500 4050 8450 4050
 Connection ~ 8250 4050
-Connection ~ 7950 4050
-Wire Wire Line
-	6500 4150 7000 4150
 Connection ~ 6800 4750
 Wire Wire Line
 	7500 4750 7800 4750
@@ -521,17 +518,21 @@ $EndComp
 Wire Wire Line
 	7100 3650 7100 3150
 Wire Wire Line
-	7500 4150 7600 4150
-Wire Wire Line
-	7600 4150 7600 4050
+	7600 4050 7600 4200
 Connection ~ 7600 4050
 Wire Wire Line
 	6800 4150 6800 4250
-Connection ~ 6800 4150
 Wire Wire Line
 	6500 4250 6550 4250
 Wire Wire Line
 	6550 4250 6550 4750
 Wire Wire Line
 	6550 4750 7000 4750
+Wire Wire Line
+	6500 4150 6800 4150
+Wire Wire Line
+	7000 4200 6800 4200
+Connection ~ 6800 4200
+Wire Wire Line
+	7600 4200 7500 4200
 $EndSCHEMATC
